@@ -1,23 +1,23 @@
 import { Card, CardContent } from "@/components/ui/card";
 
 const experiences = [{
-  title: "Award-Winning Longships",
-  description: "Viking’s innovative ships feature sleek design, al fresco dining, and spacious staterooms—most with verandas or French balconies.",
+  title: "Award-Winning River Fleet",
+  description: "Modern longships offer destination-focused comfort and panoramic views along Europe’s rivers.",
   color: "bg-blue-50 text-blue-600",
   image: "https://res.cloudinary.com/dqh2tacov/image/upload/v1734684533/cld-sample-4.jpg"
 }, {
-  title: "Destination-Focused Itineraries",
-  description: "Each voyage is designed to maximize your time in port, with extended stays, guided tours, and included cultural experiences.",
+  title: "Inclusive Value",
+  description: "Daily excursions, wine, Wi-Fi, and cultural enrichment included with every cruise.",
   color: "bg-rose-50 text-rose-600",
   image: "https://res.cloudinary.com/dqh2tacov/image/upload/v1734684532/samples/cup-on-a-table.jpg"
 }, {
-  title: "Enrichment Beyond Sightseeing",
-  description: "Onboard lectures, regional cuisine, and curated performances provide a deeper understanding of each destination.",
+  title: "Adult-Focused Cruising",
+  description: "Designed exclusively for adults 18+, with an emphasis on enrichment and peace.",
   color: "bg-amber-50 text-amber-600",
   image: "https://res.cloudinary.com/dqh2tacov/image/upload/v1734684530/samples/balloons.jpg"
 }, {
-  title: "All-Inclusive Value",
-  description: "Enjoy included shore excursions, beer and wine with lunch and dinner, Wi-Fi, and complimentary specialty coffees and teas.",
+  title: "European Cultural Immersion",
+  description: "Dive into authentic experiences and local traditions from Amsterdam to Budapest.",
   color: "bg-emerald-50 text-emerald-600",
   image: "https://res.cloudinary.com/dqh2tacov/image/upload/v1734684526/samples/landscapes/beach-boat.jpg"
 }];
